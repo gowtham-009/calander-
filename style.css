@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tablecontainer{
+    margin-left: 2%;
+    margin-top: 2%;
+    border: 5px;
+    width: 29%;
+    height:100%
+    
+}
+.tablealign{
+    background-color: burlywood;
+}
